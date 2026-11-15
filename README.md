@@ -23,7 +23,9 @@ Built with help from Claude (Anthropic) for code and text.
 
 ## Team
 Hebah AlQhtani
+
 Lamar Alahmari
+
 Sarah Alia Algamdi
 
 ## Machine learning

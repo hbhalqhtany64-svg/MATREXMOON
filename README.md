@@ -24,9 +24,9 @@ Built with help from Claude (Anthropic) for code and text.
 ## Team
 Hebah AlQhtani
 
-Lamar Alahmari
+Lamar Saad Alahmari
 
-Sarah Alia Algamdi
+Sarah Ali Algamdi
 
 ## Machine learning
 `tools/train_suitability.py` trains a logistic regression on NASA LOLA elevation, slope, |latitude| and Earth line-of-sight. The 11 past soft-landing sites are the positives; the rest of the Moon is unlabeled background. The output is a **0–100 percentile of similarity to past landing sites** (data panel, map layer, ML panel and ML Lab).
